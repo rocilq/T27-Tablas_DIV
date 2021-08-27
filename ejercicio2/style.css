@@ -1,0 +1,26 @@
+
+table{
+    border:black 1px solid;
+    width: 800px;
+}
+
+th,tr,td{
+    text-align: center;
+    border:black 1px solid;
+    padding: 5px;
+}
+
+#a{
+    background-color: #97fe95;
+}
+
+#b{
+    text-align: left;
+    background-color: #66feff;
+}
+
+#c{
+    text-align: right;
+    vertical-align: text-bottom;
+    background-color: #ff99ff;
+}
